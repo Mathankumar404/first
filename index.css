@@ -1,0 +1,55 @@
+.one{
+  background-color: black;
+  height: 100px
+  
+  
+  }
+  h1{
+    text-align: center;
+    color: yellow;
+  }
+  h4{
+    color:green;
+    text-align: center;
+  }
+  footer{
+    background-color: black;
+    color: white;
+  }
+  .divSubject{
+       background-color: cadetblue;
+       border: double 20px grey;
+        
+
+  }
+  .redbutton{
+   background-color: red;
+   cursor:pointer; 
+   width: 100px;
+   height: 100px;
+   margin-left: 45%;
+   border: solid 10px blue;
+   
+  }
+  .bluebutton{
+    text-align: center;
+    background-color: blue;
+    cursor:pointer; 
+    width: 100px;
+    height: 100px;
+    justify-content: center;
+    border: solid 10px red;
+
+    
+   }
+   .ans{
+      color: aqua;
+      background-color: black;
+       text-align: center;
+                          
+   }
+title{
+  
+  color: green;
+}
+
